@@ -1,6 +1,6 @@
 ## Địa chỉ trang web
 
-https://main.d2mii3s4tj9twz.amplifyapp.co
+https://main.d2mii3s4tj9twz.amplifyapp.com
 
 ## AWS Amplify React+Vite Starter Template
 
